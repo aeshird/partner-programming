@@ -1,5 +1,5 @@
 # Flask Template
-Basic structure for starting a Flask project with Jinja templates
+Survey for an AI generated salary predictor based on questions regarding age, gender, homeland, degree, and experience. We have also included a page to show the two partners who worked together for this assignment, Ellie Goodman and Ainsley Shird.
 
 ---
 1. Clone this repository to local computer
