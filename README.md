@@ -1,4 +1,4 @@
-# Flask Template
+# Flask Template (Partner Programming)
 Basic structure for starting a Flask project with Jinja templates
 
 ---
